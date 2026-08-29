@@ -29,41 +29,8 @@ I'm **Sumath** - A passionate developer building amazing things on the web and b
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats
 
-![Sumath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumathc2004&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumathc2004&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🎯 Featured Projects
-
-### Project 1: [Your Project Name]
-Brief description of what this project does and why it's awesome.
-- 🔗 [Repository](link-to-repo) | 🌐 [Live Demo](link-to-demo)
-
-### Project 2: [Your Project Name]
-Brief description of what this project does and why it's awesome.
-- 🔗 [Repository](link-to-repo) | 🌐 [Live Demo](link-to-demo)
-
-### Project 3: [Your Project Name]
-Brief description of what this project does and why it's awesome.
-- 🔗 [Repository](link-to-repo) | 🌐 [Live Demo](link-to-demo)
-
-## 🤝 Open Source Contributions
-I actively contribute to open-source projects. Check out my repositories below to see what I'm working on!
-
-## 📚 Latest Blog Posts
-- Coming soon! 📝
-
-## 📫 How to reach me
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 🐦 Twitter: [@YourHandle](https://twitter.com/YourHandle)
-- 📧 Email: your.email@example.com
-- 💬 Discord: YourHandle#1234
-
-## 🎓 Certifications & Achievements
-- 🏆 [Your Achievement]
-- 📜 [Your Certification]
 
 ## 💡 Currently Learning
 - Advanced System Design
